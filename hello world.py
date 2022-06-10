@@ -5,4 +5,8 @@ print('hello world')
 import time
 time.sleep(5)
 
+# This assigns a variable
+x = 5 #int
+y = 'hello' #string
+
 ### More will be added soon -- bash and monkeyskid
